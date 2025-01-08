@@ -14,6 +14,13 @@ import {
     ProductBotons } from 'edj-prodcut-card';
 ```
 ```
+
+ const product = {
+    id: '1',
+    title: 'Coffe Mug mondongo',
+    img: './coffee-mug.png'
+  }
+  
 <ProductCard
         product={product}
         className="bg-dark"
