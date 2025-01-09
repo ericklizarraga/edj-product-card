@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`ProductTitle debe  de mostrar el componente con el nombre del producto 1`] = `null`;
+
+exports[`ProductTitle debe de mostrar el componente correctamente con el titulo perzonalizaado 1`] = `null`;
